@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ASL-Recognition/
 
-
+``` bash
 │
 ├── data/               # Dataset containing train/test images
 │   ├── train/          
@@ -52,7 +52,7 @@ ASL-Recognition/
 ├── requirements.txt   
 └── .gitignore          
 
-
+```
 🤝 **Contributions**
 Feel free to fork and raise a pull request! Contributions are welcome.
 For major changes, please open an issue first to discuss what you would like to change.
